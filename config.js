@@ -1,2 +1,2 @@
 console.log("cinfig.js");
-console.log("verison2");
+console.log("verison3");
